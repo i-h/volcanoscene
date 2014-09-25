@@ -1,0 +1,3 @@
+[submodule "Assets/Scripts/gd_scripts"]
+	path = Assets/Scripts/gd_scripts
+	url = https://github.com/kokkt/gd_scripts.git
